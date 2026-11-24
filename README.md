@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://nixoncastroman.github.io">
-    <img src="card.png" width="640" alt="Nixon Castroman. Machine Learning Engineer. Institut Teknologi Sepuluh Nopember, Informatics Engineering. nixoncastroman08@gmail.com">
+    <img src="card.png" width="820" alt="Nixon Castroman. Machine Learning Engineer. Institut Teknologi Sepuluh Nopember, Informatics Engineering. nixoncastroman08@gmail.com">
   </a>
 </p>
 
